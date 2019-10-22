@@ -73,7 +73,7 @@ bool forceRefresh = true;
 // -----------------------------
 
 // ----- Wiring -------
-#define P_LAT 22
+#define P_LAT 32
 #define P_A 19
 #define P_B 23
 #define P_C 18
